@@ -348,7 +348,9 @@ nav.main-menu ul li a:hover {
 /* ==== About Area CSS Start ==== */
 
 #about-area {
-    background-color: #22252c;
+    /* background-color: #22252c; */
+    background-color: #313741;
+    ;
 }
 
 .about-thum-area {
@@ -503,6 +505,11 @@ nav.main-menu ul li a:hover {
 
 #education-area {
     background-color: #313741;
+    color: #fff;
+}
+
+#work-area {
+    background-color: #030405;
     color: #fff;
 }
 
