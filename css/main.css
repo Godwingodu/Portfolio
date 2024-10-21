@@ -535,6 +535,9 @@ nav.main-menu ul li a:hover {
     transform: translateX(-50%);
     width: 70px;
 }
+.hidden-icon::before {
+    content: "\f0e7";
+}
 
 .educaton-content .cd-timeline {
     margin: 0;
